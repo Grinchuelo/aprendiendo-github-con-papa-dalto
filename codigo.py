@@ -1,4 +1,5 @@
 def suma(*num):
     return sum(num)
 
-print(suma(4,6,19,45))
+sumita = suma(4,6,19,45)
+print("El resultado de la suma es: " + sumita)
