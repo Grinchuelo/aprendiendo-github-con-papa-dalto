@@ -1,0 +1,1 @@
+archivo temporal para practicar merge conflict entre repositorio remoto y local
